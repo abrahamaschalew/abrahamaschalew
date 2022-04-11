@@ -4,19 +4,15 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
- [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <!-- TODO: Add last video link -->
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with open source project ideas.
-💬 Ask me about MEAN-Stack, Loopback 4 & Nest Js.
+  💬 Ask me about MEAN-Stack/ MERN-Stack and Node.JS
 - 📫 How to reach me: abrshaschalew@gmail.com.
-👯 I’m looking to collaborate on open source project & remote MEAN-Stack Job.
-
-- ⚡ Fun fact: I love songs & dance.
-
-
+  👯 I’m looking to collaborate on open source project & remote MEAN-Stack Job.
 
 #### Top Technologies
 
@@ -25,8 +21,6 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 [![Angular Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Techs
-
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -37,7 +31,6 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -50,23 +43,12 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 <br />
 <br />
 
-#### Resume
-- :paperclip: [My Resume/CV](https://github.com/abrahamaschalew/abrahamaschalew/blob/master/resumes/resume%20v1.0.pdf)
-- :email: abrshaschalew@gmail.com
-
-
-#### Profile Visits 
+#### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abrahmaschalew.abrahmaschalew)
 
-
-
 <br >
-
-
-I love learning new stafs. In general i start programming a few years ago for fun & to do some programming hacking staf. But now i am full-stack developer based on mean-stack & PHP. 
 
 #### Github Stats
 
 ![Abraham Aschalew github stats](https://github-readme-stats.vercel.app/api?username=abrahamaschalew&count_private=true&theme=tokyonight&hide=contribs,prs)
-
