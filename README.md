@@ -4,15 +4,13 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <!-- TODO: Add last video link -->
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with open source project ideas.
-  💬 Ask me about MEAN-Stack/ MERN-Stack and Node.JS
+- 🤔 I’m looking for freelance jobs.
+  💬 Ask me about MEAN-Stack/ MERN-Stack.
 - 📫 How to reach me: abrshaschalew@gmail.com.
-  👯 I’m looking to collaborate on open source project & remote MEAN-Stack Job.
 
 #### Top Technologies
 
