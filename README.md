@@ -10,7 +10,7 @@ I'm Abraham Aschalew a Full Stack Web Developer. I Spend most of time coding out
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for freelance jobs.
   💬 Ask me about MEAN-Stack/ MERN-Stack.
-- 📫 How to reach me: abrshaschalew@gmail.com.
+- 📫 How to reach me: hello@abrahamaschalew.com.
 
 #### Top Technologies
 
